@@ -23,5 +23,6 @@ A normal usecase will be:
 ###TO-DO
 
 - Create wiki
-- Something more
+- Create issues tracker
 - Another
+- 
