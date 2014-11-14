@@ -12,9 +12,11 @@ A normal usecase will be:
 
 ###Requirements:
 
-- 
+- Visual Studio 
+- XSD.exe
 
 
 ###Pre-Requisites:
 
+- .cs files must be able to compile in VS, no checking for syntax error is don in LabVIEW
 
