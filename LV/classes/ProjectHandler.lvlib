@@ -4,7 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="AddVirtualFolders.vi" Type="VI" URL="../ProjectHandler/AddVirtualFolders.vi"/>
 	<Item Name="CloseReferences.vi" Type="VI" URL="../ProjectHandler/CloseReferences.vi"/>
 	<Item Name="CreateOrOpenProject.vi" Type="VI" URL="../ProjectHandler/CreateOrOpenProject.vi"/>
+	<Item Name="FindVirtualFolders.vi" Type="VI" URL="../ProjectHandler/FindVirtualFolders.vi"/>
 	<Item Name="RefNums.vi" Type="VI" URL="../ProjectHandler/RefNums.vi"/>
 </Library>
