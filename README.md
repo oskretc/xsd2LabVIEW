@@ -16,13 +16,15 @@ A normal usecase will be:
 - XSD.exe
 
 
+
 ###Pre-Requisites:
 
 - .cs files must be able to compile in VS, no checking for syntax error is don in LabVIEW
 
+### What can do
+
+- Create or Open an existing project
+
 ###TO-DO
 
-- Create wiki
-- Create issues tracker
-- Another
-- 
+- Create wiki 
